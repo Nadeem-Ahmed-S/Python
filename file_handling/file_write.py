@@ -6,7 +6,7 @@
 
 with open('file.py','w') as f:
   print("write(Data you want to write)");
-  f.write("Hey this the write function");
+  f.write("write function");
 
 #--------------------------------------------------------------------
 #Description : Adding data into the file
